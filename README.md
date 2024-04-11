@@ -1,5 +1,7 @@
 # Interactive Bar Chart Generator
 
+## [LINK](https://tanishapatil1234.github.io/bar-chart/)
+
 This Python script generates an interactive bar chart using Plotly based on population data provided in JSON format.
 
 <img width="1179" alt="image" src="https://github.com/tanishapatil1234/bar-chart/assets/111611921/8aad386c-4f73-4a74-a53d-5e22697a611c">
